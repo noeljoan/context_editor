@@ -6,16 +6,16 @@
 <br>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  Löschen   Block   Schrift   Format   Layout   Suchen   Extra   Drucken  Datei ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  ConText — DOS-Texteditor Revival                          v1.0             ║
-║  Originalgetreues CGA-Farbschema · Deutschsprachige Oberfläche              ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  Unbenannt  [unverändert]        Seite 1    Zeile 1    Spalte 1   Zeilen: 1 ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════════╗
+║  Löschen   Block   Schrift   Format   Layout   Suchen   Extra   Drucken  Datei  ║
+╠═════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                 ║
+║  ConText — DOS-Texteditor Revival                          v1.0                 ║
+║  Originalgetreues CGA-Farbschema · Deutschsprachige Oberfläche                  ║
+║                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════╣
+║  Unbenannt  [unverändert]        Seite 1    Zeile 1    Spalte 1   Zeilen: 1     ║
+╚═════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
