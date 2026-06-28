@@ -7,7 +7,7 @@
 
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════╗
-║  Löschen   Block   Schrift   Format   Layout   Suchen   Extra   Drucken  Datei  ║
+║  Datei  Löschen  Block  Schrift  Format  Layout  Suchen  Extra  Drucken  Hilfe  ║
 ╠═════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                 ║
 ║  ConText — DOS-Texteditor Revival                          v1.0                 ║
