@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ConText – DOS-Texteditor Nachbildung (Python/Tkinter)
+ConText Revival – DOS-Texteditor Nachbildung (Python/Tkinter)
 Basiert auf dem originalen ConText von Borland (1985/1992)
 mit deutschsprachiger Benutzeroberfläche
 """
@@ -31,7 +31,7 @@ FONT_STATUS = ("Courier", 10, "normal")
 class ConTextEditor:
     def __init__(self, root: tk.Tk):
         self.root = root
-        self.root.title("ConText  –  DOS-Texteditor")
+        self.root.title("ConText Revival –  DOS-Texteditor - Made by Noel Joan")
         self.root.configure(bg=BG_EDITOR)
         self.root.geometry("900x600")
         self.root.minsize(640, 400)
@@ -66,6 +66,7 @@ class ConTextEditor:
         self.root.config(menu=self.menubar)
 
         menus = [
+            ("Datei",    self._menu_datei()),
             ("Löschen",  self._menu_loeschen()),
             ("Block",    self._menu_block()),
             ("Schrift",  self._menu_schrift()),
@@ -74,7 +75,6 @@ class ConTextEditor:
             ("Suchen",   self._menu_suchen()),
             ("Extra",    self._menu_extra()),
             ("Drucken",  self._menu_drucken()),
-            ("Datei",    self._menu_datei()),
             ("Hilfe",    self._menu_hilfe()),
         ]
 
