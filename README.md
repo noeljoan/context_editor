@@ -1,4 +1,4 @@
-# ConText — DOS-Texteditor Revival
+# ConText Revival — DOS-Texteditor
 
 > **DE:** Eine Python/Tkinter-Nachbildung des legendären Borland ConText (1985–1992)  
 > **EN:** A Python/Tkinter recreation of the legendary Borland ConText DOS text editor (1985–1992)
